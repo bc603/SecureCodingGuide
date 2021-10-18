@@ -1,4 +1,4 @@
-package com.company.코드오류5;
+package com.company.코드오류_5;
 
 /*
     초기화 되지 않은 변수 사용

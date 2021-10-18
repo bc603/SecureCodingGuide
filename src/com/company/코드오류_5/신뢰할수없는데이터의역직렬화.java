@@ -1,4 +1,4 @@
-package com.company.코드오류5;
+package com.company.코드오류_5;
 
 import javax.crypto.Cipher;
 import javax.crypto.SealedObject;

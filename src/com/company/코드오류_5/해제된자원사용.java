@@ -1,4 +1,4 @@
-package com.company.코드오류5;
+package com.company.코드오류_5;
 
 /*
     C나 C++ 프로그램 처럼 메모리 해제를 개발자가 수행해야 하는 경우 해제된 자원을 해제하거나

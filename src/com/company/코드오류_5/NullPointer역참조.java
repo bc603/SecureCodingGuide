@@ -1,4 +1,4 @@
-package com.company.코드오류5;
+package com.company.코드오류_5;
 
 import java.util.Collection;
 

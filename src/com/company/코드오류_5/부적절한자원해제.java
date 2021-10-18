@@ -1,4 +1,4 @@
-package com.company.코드오류5;
+package com.company.코드오류_5;
 
 /*
     부적절한 자웒 해제
